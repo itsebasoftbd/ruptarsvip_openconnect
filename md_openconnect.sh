@@ -3,9 +3,9 @@ cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
 
 #Database Details
 db_host='80.240.20.126';
-db_user='ninjavpn';
-db_pass='ninjavpn';
-db_name='ninjavpn';
+db_user='ruptarsvip';
+db_pass='ruptarsvip';
+db_name='ruptarsvip';
 
 install_require()
 {
